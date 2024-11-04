@@ -1,0 +1,17 @@
+aiohttp
+tqdm
+fake_useragent
+aiohttp_socks
+asyncio
+urllib.parse
+signal
+sys
+time
+logging
+multiprocessing
+os
+random
+typing
+mmap
+argparse
+subprocess
